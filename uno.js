@@ -18,7 +18,7 @@ function mostrar()
 	let promedioBactericida;
 	let promedioDetergente;
 
-	for(i = 0 ; i < 3 ; i++){
+	for(i = 0 ; i < 5 ; i++){
 		nombre = prompt("Ingrese nombre de prod: ");
 
 		tipo = prompt("Ingrese tipo de producto: ");
